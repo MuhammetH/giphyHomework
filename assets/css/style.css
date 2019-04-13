@@ -1,0 +1,14 @@
+body{
+    font-family: 'Heebo', sans-serif;
+    margin: 10px;
+    background-color: antiquewhite;
+
+}
+
+
+#buttons{
+    margin: 10px;
+    border: 2px;
+    border-color: aqua;
+}
+
